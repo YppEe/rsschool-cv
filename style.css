@@ -1,0 +1,19 @@
+body{
+    background: turquoise;
+    display: flex ;
+    justify-content: left;
+    align-items: center;
+    min-width: 95vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+container{
+    width: 100%;
+    align-items: left;
+}
