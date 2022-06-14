@@ -8,12 +8,16 @@
 My name is Rsustem. I'm from Kazakhstan. I work at a factory as engineer. I want to stay programmer.
 
 ## Pogramming skills
-I have never programmed. I hope I will learn this in your courses.
+* HTML
+* CSS(BEM)
+* Git/GitHub
+* Basic JS
+
 
 ## Work expirience
 I worked for 5 years at a machine-building plant, as a section foreman.
 
-## Langueges
+## Languages
 Russian - **Advance**
 Kazakh - **Native**
 English - **Pre-Intermediate**
